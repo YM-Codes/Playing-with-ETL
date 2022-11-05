@@ -1,0 +1,3 @@
+Project Information
+
+This presentation focuses only on the ETL flow, where I make sure that if any entries are added to the sources, the most recent is shown. Data will be stored where it should be stored after being transformed by the Azure Data Factory using sources such as Github, SharePoint, and SQL Server (SQL Server). This entire automated pipeline will operate at a specific time and complete all the necessary tasks on your behalf.
